@@ -31,8 +31,7 @@ elif error_type == "import":
 elif error_type == "index":
     aaa = [10, 20]
     
-    aaa = [1]
-    aaa = [3]
+    print(aaa[5])
 elif error_type == "key":
     d = {} 
     
